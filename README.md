@@ -1,4 +1,4 @@
-#Build and run
+# Build and run
 Maven build script is included.
 1) cd to pom.xml folder
 2) run: mvn clean install
