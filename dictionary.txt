@@ -1,0 +1,4 @@
+solecism,mistake,faux pas,error,slip up
+negligible,measly,piffling,paltry
+banal,trivial,cliched,meaningless
+suave,affable,debonair,politic

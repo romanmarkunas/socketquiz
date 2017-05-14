@@ -1,0 +1,7 @@
+# IDE settings
+.idea/
+socketquiz.iml
+
+# output
+build/
+target/
